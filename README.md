@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A graduate of Estate management who fell in love with tech and decided to change career path. i'm currently on a journey to become a fullstack developer which has been quite a ride but i love the challenge.</h3>
 
-- 🔭 I’m presently working **working with with CSS, Vanilla JS, JQuery and chart.js**
+- 🔭 I’m presently working **with with CSS, Vanilla JS, JQuery and chart.js**
 
 - 🌱 I’m **currently learning Advanced JavaScript**
 
