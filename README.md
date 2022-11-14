@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **working with with CSS, Vanilla JS, JQuery and chart.js**
 
-- 🌱 I’m **currently learning Advanced JavaScript**
+- 🌱 I’m **presently learning Advanced JavaScript**
 
 - 👯 I’m **interested in working with great minds to solve problems and better my knowledge in tech, one code at a time.**
 
