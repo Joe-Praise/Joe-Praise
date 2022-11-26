@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A graduate of Estate management who fell in love with tech and decided to change career path. i'm currently on a journey to become a fullstack developer which has been quite a ride but i love the challenge.</h3>
 
-<h1 align="center">Hi 👋, I'm Joe</h1>
-<h3 align="center">A graduate of Estate management who fell in love with tech and decided to change career path. i'm currently on a journey to become a fullstack developer which has been quite a ride but i love the challenge.</h3>
-
 <p align="left"> <a href="https://twitter.com/ohiolei_" target="blank"><img src="https://img.shields.io/twitter/follow/ohiolei_?logo=twitter&style=for-the-badge" alt="ohiolei_" /></a> </p>
 
 - 🔭 I’m currently working **with CSS, Bootstrap, Sass, Vanilla JS, JQuery and chart.js**
