@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A graduate of Estate management who fell in love with tech and decided to change career path. i'm currently on a journey to become a fullstack developer which has been quite a ride but i love the challenge.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-praise&label=Profile%20views&color=0e75b6&style=flat" alt="joe-praise" /> </p>
+
 <p align="left"> <a href="https://twitter.com/ohiolei_" target="blank"><img src="https://img.shields.io/twitter/follow/ohiolei_?logo=twitter&style=for-the-badge" alt="ohiolei_" /></a> </p>
 
-- 🔭 I’m currently working **with CSS, Bootstrap, Sass, Vanilla JS, JQuery and chart.js**
+- 🔭 I’m currently working **with Vanilla JS, JQuery ,React JS, CSS, Bootstrap, Sass**
 
-- 🌱 I’m **currently learning Advanced JavaScript**
+- 🌱 I’m **currently learning Advanced React.js**
 
 - 👯 I’m **interested in working with great minds to solve problems and better my knowledge in tech, one code at a time.**
 
-- 💬 Ask me about **JQuery, vanilla javascript , Sass and Css**
+- 💬 Ask me about **React, JQuery, vanilla javascript , Sass and Css**
 
 - 📫 How to reach me **alimipraisejoe@gmail.com**
 
-- ⚡ Fun fact **I play soccer twice a week and i love the indoors**
+- ⚡ Fun fact **I play soccer twice a week and i love staying indoors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +25,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-praise&show_icons=true&locale=en&layout=compact" alt="joe-praise" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joe-praise&show_icons=true&locale=en" alt="joe-praise" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-praise&" alt="joe-praise" /></p>
 
 
 
