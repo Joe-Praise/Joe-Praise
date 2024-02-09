@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **AI projects, Backend projects and complex projects generally**
 
-- 🤝 I’m looking for help with **Resources to learn AI integration**
-
 - 💬 Ask me about **JavaScript, Node Js and React**
 
 - 📫 How to reach me **alimipraisejoe@outlook.com**
