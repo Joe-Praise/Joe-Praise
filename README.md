@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Joe Praise</h1>
-<h3 align="center">A passionate full-stack developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Joseph Praise</h1>
+<h3 align="center">A passionate software developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-praise&label=Profile%20views&color=0e75b6&style=flat" alt="joe-praise" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [EduCourse](coming soon...)
-
-- 🌱 I’m currently learning **NextJs**
+- 🔭 I’m currently working on [PAYSTAT](coming soon...)
 
 - 👯 I’m looking to collaborate on **AI projects, Backend projects and complex projects generally**
 
-- 💬 Ask me about **JavaScript, Node Js and React**
+- 💬 Ask me about **JavaScript, Node Js, React and NextJs**
 
-- 📫 How to reach me **alimipraisejoe@outlook.com**
+- 📫 How to reach me **praisejosephalimi@gmail.com**
 
 - ⚡ Fun fact **I'm Batman.**
 
